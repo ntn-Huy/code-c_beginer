@@ -48,6 +48,6 @@ int main()
 		scanf("%f",&sv[i].diem);
 	}
 	Danhsach(sv,n);
-
+	printf("\nend.");
 
 }
