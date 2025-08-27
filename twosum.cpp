@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+// tim hai so trong day sao cho tong hai so do = target
 int* twosum (int nums[],int numSize,int target)
 {
     int* result= (int*)malloc(2*sizeof(int));
